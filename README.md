@@ -4,8 +4,7 @@
 
 **Course:** 02AML204 -- Introduction to Artificial Intelligence\
 **Programme:** SY B.Tech. CSE (AI & ML), Semester VI\
-**GitHub Repository:**
-[IAI-BFS-VS-DFS-BY-4-QUEEN-](https://github.com/shubhamkhavare61-netizen/IAI-BFS-VS-DFS-BY-4-QUEEN-)
+
 
 ------------------------------------------------------------------------
 
